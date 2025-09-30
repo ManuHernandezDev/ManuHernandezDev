@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  # Ejecuta cada día a medianoche (UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clona el repositorio (necesario para guardar el archivo generado)
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Genera el archivo de la serpiente
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # Nombre de tu usuario de GitHub
+          github_user_name: ManuHernandezDev
+          # Salida de los archivos generados
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # 3. Publica el resultado en un branch llamado "output"
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output    # Branch donde se guardan los resultados
+          build_dir: dist          # Carpeta donde quedaron los archivos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
