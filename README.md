@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hola, soy [Tu Nombre Completo] 👋
+# Hola, soy Manuel Hernandez 👋
 
 Desarrollador Full-Stack | 7º Semestre de Ingeniería de Software.
 
@@ -20,7 +20,7 @@ Soy un apasionado por la creación de soluciones digitales, transformando ideas 
 
 ---
 
-## /usr/[tu_usuario]/skills
+## /usr/ManuHernandezDev/skills
 
 -   **Frontend:** `JavaScript (ES6+)`, `React`, `Next.js`, `Vue`, `HTML5`, `CSS3`, `TailwindCSS`
 -   **Backend:** `Node.js`, `Express`, `Python (Flask)`, `Java (Spring Boot)`
@@ -33,15 +33,7 @@ Soy un apasionado por la creación de soluciones digitales, transformando ideas 
 
 _Cada línea de código es una solución a un desafío._
 
-1.  **[Nombre del Proyecto 1]** - _Una plataforma e-commerce moderna._
-    * **Tecnologías:** `React`, `Node.js (Express)`, `MongoDB`, `Stripe API`.
-    * **Lo que aporta:** Implementación de autenticación JWT, carrito de compras persistente y pasarela de pago.
-    * `[Repositorio](https://github.com/tu-usuario/proyecto1)` | `[Demo en Vivo](https://tu-proyecto1.vercel.app)`
 
-2.  **[Nombre del Proyecto 2]** - _Sistema de gestión de tareas con funcionalidades colaborativas._
-    * **Tecnologías:** `Vue.js`, `Python (Flask)`, `PostgreSQL`, `WebSockets`.
-    * **Lo que aporta:** API RESTful robusta, actualizaciones en tiempo real y gestión de usuarios/roles.
-    * `[Repositorio](https://github.com/tu-usuario/proyecto2)`
 
 ---
 
