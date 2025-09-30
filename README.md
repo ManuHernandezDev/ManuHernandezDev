@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">Hola, soy [Tu Nombre Completo] 👋</h1>
+<h1 align="center">Hola, soy Manuel 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1500&color=20B2AA&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Desarrollador+Full-Stack;Estudiante+7mo+Semestre+Ing.+Software;Apasionado+por+la+innovación;Construyendo+soluciones+eficientes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=20B2AA&center=true&vCenter=true&multiline=true&width=800&height=85&lines=Desarrollador+Full-Stack;Estudiante+Ing.+Sistemas+Computacionales" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,6 @@ Exploro y domino un espectro de tecnologías para construir soluciones robustas,
 <p align="center">
   <h4> Lenguajes de Programación </h4>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
@@ -41,10 +40,7 @@ Exploro y domino un espectro de tecnologías para construir soluciones robustas,
   <h4> Frontend Development </h4>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/></a>
 </p>
 
 <p align="center">
@@ -53,16 +49,13 @@ Exploro y domino un espectro de tecnologías para construir soluciones robustas,
   <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
 </p>
 
 <p align="center">
   <h4> Bases de Datos </h4>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://www.oracle.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 </p>
 
 <p align="center">
@@ -70,8 +63,6 @@ Exploro y domino un espectro de tecnologías para construir soluciones robustas,
   <a href="#"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/></a>
 </p>
 
 ---
@@ -80,17 +71,6 @@ Exploro y domino un espectro de tecnologías para construir soluciones robustas,
 
 Cada proyecto es un reflejo de mi compromiso con la creación de soluciones impactantes y el aprendizaje continuo.
 
-1.  **[Nombre del Proyecto 1]** - _Innovación en [área del proyecto]._
-    * **Visión:** [Describe la problemática o la oportunidad que abordó el proyecto en una frase concisa].
-    * **Implementación:** Desarrollado con `[Tecnología Principal Frontend]`, `[Tecnología Principal Backend]` y `[Base de Datos]`.
-    * **Impacto:** [Menciona brevemente una característica clave o el resultado principal del proyecto, por ejemplo: "Mejora la eficiencia en un X%" o "Ofrece una experiencia de usuario intuitiva para Y"].
-    * `[Repositorio](https://github.com/tu-usuario/proyecto1)` | `[Demo en Vivo](https://tu-proyecto1.vercel.app)` (si aplica)
-
-2.  **[Nombre del Proyecto 2]** - _Optimizando [proceso o sistema]._
-    * **Visión:** [Describe el desafío técnico o la necesidad funcional que el proyecto resolvió].
-    * **Implementación:** Un sistema robusto construido con `[Tecnología Principal Frontend]`, `[Tecnología Principal Backend]` y `[Base de Datos]`.
-    * **Impacto:** [Destaca una característica técnica innovadora o el valor añadido del proyecto].
-    * `[Repositorio](https://github.com/tu-usuario/proyecto2)`
 
 ---
 
@@ -116,41 +96,39 @@ Estoy abierto a discutir nuevas ideas, colaborar en proyectos desafiantes y expl
 
 Explora mi compromiso y contribuciones en GitHub.
 
-<details><summary><h3>📊 Resumen General</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="Estadísticas de GitHub de [Tu Nombre]" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de [Tu Nombre]" />
-  </p>
-</details>
+<h3 align="center">📊 Resumen General</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuHernandezDev&show_icons=true&count_private=true&locale=es&theme=dracula&hide_border=true&rank_icon=percentile" alt="Estadísticas de GitHub de Manu Hdz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuHernandezDev&theme=dracula&hide_border=true" alt="Racha de contribuciones de Manu Hdz" />
+</p>
 
-<details><summary><h3>🔝 Lenguajes Preferidos</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por [Tu Nombre]" />
-  </p>
-</details>
+---
 
-<details><summary><h3>📈 Historial de Contribuciones</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyonight&hide_border=true" alt="Gráfico de actividad de contribuciones de [Tu Nombre]" />
-  </p>
-</details>
+<h3 align="center">🔝 Lenguajes Preferidos</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuHernandezDev&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados por Manu Hdz" />
+</p>
 
-<details><summary><h3>🏆 Trofeos de GitHub</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub de [Tu Nombre]" />
-  </p>
-</details>
+---
 
-<details><summary><h3>🐍 La Serpiente de Mis Contribuciones</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
-  </p>
-</details>
+<h3 align="center">📈 Historial de Contribuciones</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuHernandezDev&theme=dracula&hide_border=true" alt="Gráfico de actividad de contribuciones de Manu Hdz" />
+</p>
+
+---
+
+<h3 align="center">🏆 Trofeos de GitHub</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManuHernandezDev&layout=compact&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub de Manu Hdz" />
+</p>
+
+---
+
+<h3 align="center">🐍 La Serpiente de Mis Contribuciones</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManuHernandezDev/ManuHernandezDev/output/dist/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
