@@ -125,13 +125,6 @@ Explora mi compromiso y contribuciones en GitHub.
 
 ---
 
-<h3 align="center">🐍 La Serpiente de Mis Contribuciones</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManuHernandezDev/ManuHernandezDev/output/dist/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="45px"> </picture> Conéctate Conmigo
 
 Estoy siempre abierto a nuevas conexiones y colaboraciones. ¡No dudes en contactarme!
